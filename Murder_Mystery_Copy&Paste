@@ -138,3 +138,16 @@ def find_text_similarity(text1, text2):
 #text2 = myrtle_beech_intro
 #find_text_similarity(text1, text2)
 
+#The Final Call
+print("Name: Lily Trebuchet")
+print(find_text_similarity(murder_note,lily_trebuchet_intro))
+print()
+print("Name: Myrtle Beech")
+print(find_text_similarity(murder_note,myrtle_beech_intro))
+print()
+print("Name: Gregg T Fishy")
+print(find_text_similarity(murder_note,gregg_t_fishy_intro))
+
+#The Murderer
+print("Lily Trebuchet killed Jay Stacksby")
+
